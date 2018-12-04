@@ -128,7 +128,7 @@ implements ActionListener
 				{
 					jIterLimitTextField = new JTextField();
 					jPanel.add(jIterLimitTextField);
-					jIterLimitTextField.setText("500");
+					jIterLimitTextField.setText("10");
 					jIterLimitTextField.setBounds(88, 138, 45, 20);
 					jIterLimitTextField.setHorizontalAlignment(SwingConstants.RIGHT);
 				}
